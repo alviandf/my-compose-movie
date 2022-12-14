@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Compose Movie</string>
+
+    <string name="label_release_date">Release Date</string>
+    <string name="label_search">Search</string>
+
+    <string name="title_favorite">Favorite</string>
+    <string name="title_popular">Popular</string>
+
+    <string name="image_logo">Logo</string>
+
+    <string name="developer_name">Muhammad Alviand Fredonovalle</string>
+    <string name="developer_email">alviand03@gmail.com</string>
+
+    <string name="image_empty">Empty Image</string>
+    <string name="image_about">About Image</string>
+
+    <string name="page_about">about_page</string>
+
+    <string name="message_empty_favorite">You don\'t have any favorite movie yet.</string>
+    <string name="message_empty_search">No movie found.</string>
+    <string name="message_error">Something went wrong.</string>
+
+    <string name="action_back">Back</string>
+
+</resources>
