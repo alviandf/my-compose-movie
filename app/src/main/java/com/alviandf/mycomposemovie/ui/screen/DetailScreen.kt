@@ -1,4 +1,4 @@
-package com.alviandf.mycomposemovie.ui
+package com.alviandf.mycomposemovie.ui.screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -35,6 +35,7 @@ import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import com.alviandf.mycomposemovie.R
 import com.alviandf.mycomposemovie.data.Resource.Empty
+import com.alviandf.mycomposemovie.data.Resource.Error
 import com.alviandf.mycomposemovie.data.Resource.Loading
 import com.alviandf.mycomposemovie.data.Resource.Success
 import com.alviandf.mycomposemovie.domain.model.Movie

@@ -1,4 +1,4 @@
-package com.alviandf.mycomposemovie.ui
+package com.alviandf.mycomposemovie.ui.screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

@@ -13,6 +13,10 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.alviandf.mycomposemovie.navigation.Screen
+import com.alviandf.mycomposemovie.ui.screen.AboutScreen
+import com.alviandf.mycomposemovie.ui.screen.DetailScreen
+import com.alviandf.mycomposemovie.ui.screen.FavoriteScreen
+import com.alviandf.mycomposemovie.ui.screen.PopularMovieScreen
 import com.alviandf.mycomposemovie.ui.widgets.BottomBar
 import com.alviandf.mycomposemovie.ui.widgets.TopBar
 
